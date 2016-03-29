@@ -21,6 +21,8 @@ Drools 6.3.0 workbench 是Drools的一个web端开发平台。下面我们用Tom
 * slf4j-api-1.7.2.jar
 * slf4j-jdk14-1.7.2.jar
 > * 下载地址：https://github.com/zhaohuizhang/droolsworkbenchconfig
+
+
 ## 2,在TOMCAT_HOME/conf创建配置文件 
 ``` 
     * btm-config.properties
@@ -47,6 +49,7 @@ Drools 6.3.0 workbench 是Drools的一个web端开发平台。下面我们用Tom
     *******************************************************************************
 ```
 * 下载地址：https://github.com/zhaohuizhang/droolsworkbenchconfig
+
 ## 3,定义系统环境变量btm.root, bitronix config file, JBoss logging provider 
 在TOMCAT_HOME/bin下面添加setenv.bat
 ```
